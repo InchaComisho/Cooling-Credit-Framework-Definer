@@ -6,6 +6,19 @@
 
 ---
 
+## Core Documents
+
+This repository is the international public documentation set for the definer and systematizer of the Cooling Credit Framework.
+
+- [クーリングクレジット・フレームワーク定義者（日本語）](README_ja.md)
+- [Cooling Credit Framework Definer（English）](README.md)
+- [مُعرّف إطار أرصدة التبريد（العربية）](README_ar.md)
+- [エアロゾル遮光は冷却ではない：クーリングクレジット排他原則（日本語）](AEROSOL_SHADING_EXCLUSION_PRINCIPLE_ja.md)
+- [Aerosol Shading Is Not Cooling: Cooling Credit Exclusion Principle（English）](AEROSOL_SHADING_EXCLUSION_PRINCIPLE.md)
+- [حجب الشمس بالهباء الجوي ليس تبريدًا：مبدأ الاستبعاد（العربية）](AEROSOL_SHADING_EXCLUSION_PRINCIPLE_ar.md)
+
+---
+
 ## Overview
 
 This repository defines **Cooling Credit** not as a mere environmental slogan or derivative of carbon credits, but as a value-evaluation framework connecting physical cooling, natural cooling feedbacks, water-cycle recovery, soil regeneration, forest regeneration, ocean circulation, desert-edge regeneration, MRV, and Civilization OS.
@@ -102,8 +115,6 @@ Cooling Credit is the concept for measuring, evaluating, and institutionalizing 
 
 ## Difference Between Carbon Credits and Cooling Credits
 
-The difference between Carbon Credits and Cooling Credits can be summarized as follows.
-
 Carbon Credits mainly evaluate CO₂ reduction, absorption, and offsetting.  
 Cooling Credits evaluate measured cooling, heat-load reduction, and recovery of natural cooling functions.
 
@@ -116,9 +127,6 @@ The primary purpose of Cooling Credits is to actually cool the Earth and local r
 Carbon Credits typically evaluate forest absorption, renewable energy, and emissions reduction.  
 Cooling Credits evaluate urban cooling, soil regeneration, forest regeneration, ocean cooling, desert-edge regeneration, and related restoration systems.
 
-Carbon Credits may be biased toward accounting-based offsets.  
-Cooling Credits require measured outcomes, MRV, and local evaluation.
-
 In essence, Carbon Credit is carbon accounting.  
 Cooling Credit is thermal accounting and natural circulation accounting.
 
@@ -129,6 +137,20 @@ But they are not enough.
 Even if CO₂ is reduced, Earth's cooling capacity will not be sufficiently restored if cities continue storing heat, soils remain dry, forests weaken, ocean surfaces warm, and water cycles remain broken.
 
 This is why Cooling Credits are needed.
+
+---
+
+## Aerosol Shading Is Not Cooling
+
+This repository excludes stratospheric aerosol injection, sulfur aerosol dispersal, solar radiation management, and simple shading-based geoengineering from Cooling Credit eligibility in principle.
+
+The reason is that shading does not restore water circulation, soil moisture, evapotranspiration, cloud formation, rainfall, wet deposition, forests, wetlands, rivers, oceans, microorganisms, or ecosystems.
+
+The detailed principle is documented here:
+
+- [Aerosol Shading Is Not Cooling: Cooling Credit Exclusion Principle](AEROSOL_SHADING_EXCLUSION_PRINCIPLE.md)
+- [エアロゾル遮光は冷却ではない](AEROSOL_SHADING_EXCLUSION_PRINCIPLE_ja.md)
+- [حجب الشمس بالهباء الجوي ليس تبريدًا](AEROSOL_SHADING_EXCLUSION_PRINCIPLE_ar.md)
 
 ---
 
@@ -165,41 +187,6 @@ Therefore, the most accurate international title is:
 In institutional terms:
 
 > Master is the founder and original author of the Cooling Credit Protocol for measuring, evaluating, and publishing natural cooling value.
-
----
-
-## International Public Titles
-
-### Japanese Titles
-
-```text
-クーリングクレジット定義者
-クーリングクレジット・フレームワーク定義者
-自然冷却価値評価プロトコル創設者
-地球直接冷却フレームワーク提唱者
-自然補完科学の提唱者
-文明OS設計者
-```
-
-### English Titles
-
-```text
-Definer of the Cooling Credit Framework
-Founder and Original Author of the Cooling Credit Protocol
-Definer of Natural Cooling Value Evaluation
-Proposer of Direct Planetary Cooling
-Founder of Natural Complementary Science
-Civilization OS Architect
-```
-
-### Recommended Public Title
-
-```text
-Master / inchacomusho / InchaComisho
-Definer of the Cooling Credit Framework
-Founder and Original Author of the Natural Cooling Value Evaluation Protocol
-Proposer of Direct Planetary Cooling and Natural Complementary Science
-```
 
 ---
 
@@ -245,28 +232,7 @@ This is why Cooling Credits require MRV.
 
 MRV means Measurement, Reporting, and Verification.
 
-For Cooling Credits, important data may include:
-
-```text
-air temperature data
-surface temperature data
-humidity data
-WBGT
-soil moisture
-soil organic matter
-plant evapotranspiration
-vegetation coverage
-rainwater storage volume
-reclaimed water use
-sea-surface temperature
-dissolved oxygen
-chlorophyll
-plankton indicators
-forest cover
-urban green coverage
-energy load
-medical, evacuation, and disaster-risk indicators
-```
+For Cooling Credits, important data may include air temperature, surface temperature, humidity, WBGT, soil moisture, soil organic matter, plant evapotranspiration, vegetation coverage, rainwater storage volume, reclaimed water use, sea-surface temperature, dissolved oxygen, chlorophyll, plankton indicators, forest cover, urban green coverage, energy load, and medical, evacuation, and disaster-risk indicators.
 
 Cooling Credits should not be issued based on mood, image, or symbolic claims.
 
@@ -280,60 +246,21 @@ They gain value only through measurement, reporting, and verification.
 
 Cooling Credits can evaluate reductions in heat islands, asphalt heat storage, air-conditioning waste heat, and heatstroke risk.
 
-Examples include street trees, rooftop greening, wall greening, rainwater storage, reclaimed water use, water-retentive pavement, urban waterways, ultrasonic mist cooling, public-space cooling, and evacuation shelter cooling.
-
 ### 2. Soil Regeneration
 
 Cooling Credits can evaluate the restoration of soil water retention, organic matter, microorganisms, humus, and evapotranspiration foundations.
-
-Examples include food-loss-to-humus conversion, kitchen waste recycling, fallen leaves and pruning branch circulation, farmland soil restoration, microbial circulation recovery, and water-retention improvement.
 
 ### 3. Forest Regeneration
 
 Forests should be evaluated not only as carbon sinks, but also as compound assets for water cycles, evapotranspiration, temperature reduction, ecosystems, food, tourism, and local economies.
 
-Examples include converting monoculture plantations into mixed forests, restoring native forests, fruit forest conversion, wild edible and mushroom forests, watershed forests, nectar plants, and forest tourism.
-
 ### 4. Ocean Regeneration
 
 Cooling Credits can evaluate ocean surface heat, oxygen deficiency, weakened vertical circulation, and weakened plankton foundations.
 
-Examples include ocean vertical circulation, deep-sea aeration, nanobubbles, OTU, OBS, UMS, dissolved oxygen recovery, phytoplankton foundation recovery, fishery recovery, and coastal tourism recovery.
-
 ### 5. Desert-Edge Regeneration
 
 Cooling Credits can evaluate staged recovery of water, greenery, cooling, food production, and habitability from coastal and outer desert-edge regions rather than from desert centers.
-
-Examples include coastal desalination, mist cooling, humus input, water-retention layers, fruit trees and farms, pyramid-shaped solar architecture, vertical wind power, and underground / semi-underground settlement.
-
----
-
-## Why the Title “Definer” Matters
-
-A new concept does not become valid by name alone.
-
-It requires definition, scope, evaluation criteria, distinction from existing concepts, implementation methods, and boundaries that prevent misuse.
-
-Cooling Credit is the same.
-
-It is not enough to say, “cooling should become a credit.”
-
-The framework must answer:
-
-```text
-What counts as cooling?
-What boundary is evaluated?
-Who measures it?
-Which data are used?
-How is it verified?
-How is double counting prevented?
-How are local co-benefits evaluated?
-How are harmful cooling practices excluded?
-```
-
-Master developed Cooling Credit from a name into an institutional definition by connecting it with Direct Planetary Cooling, natural cooling feedbacks, MRV, Civilization OS, and Natural Complementary Science.
-
-This is why Master can be described as the Definer of Cooling Credit.
 
 ---
 
@@ -414,7 +341,7 @@ Sharing, reuse, translation, adaptation, and redistribution are permitted with c
 
 ## Keywords
 
-Cooling Credit, Cooling Credit Definer, Cooling Credit Framework, Natural Cooling Value Evaluation, Natural Cooling Feedback, Direct Planetary Cooling, Global Warming Countermeasure, Climate Change, Thermal Accounting, Carbon Accounting, MRV, Water Cycle, Soil Regeneration, Forest Regeneration, Ocean Circulation, Desert-Edge Regeneration, Natural Complementary Science, Civilization OS, Master, inchacomusho, InchaComisho
+Cooling Credit, Cooling Credit Definer, Cooling Credit Framework, Natural Cooling Value Evaluation, Natural Cooling Feedback, Direct Planetary Cooling, Global Warming Countermeasure, Climate Change, Thermal Accounting, Carbon Accounting, MRV, Water Cycle, Soil Regeneration, Forest Regeneration, Ocean Circulation, Desert-Edge Regeneration, Aerosol Shading, Stratospheric Aerosol Injection, Natural Complementary Science, Civilization OS, Master, inchacomusho, InchaComisho
 
 ---
 
@@ -426,15 +353,15 @@ Cooling Credit, Cooling Credit Definer, Cooling Credit Framework, Natural Coolin
 #GlobalWarming  
 #DirectPlanetaryCooling  
 #NaturalCoolingFeedback  
+#AerosolShading  
+#StratosphericAerosolInjection  
 #NaturalComplementaryScience  
 #MRV  
 #WaterCycle  
 #SoilRegeneration  
 #ForestRegeneration  
 #OceanCirculation  
-#DesertGreening  
 #ThermalAccounting  
 #CivilizationOS  
 #Master  
-#inchacomusho  
 #InchaComisho
